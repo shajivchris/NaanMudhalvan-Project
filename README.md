@@ -1,5 +1,4 @@
 # NaanMudhalvan-Project
-Here’s a `README.md` file for your GitHub project:
 
 # Personalized Content Recommender Chatbot
 
